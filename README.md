@@ -1,4 +1,4 @@
-# 📊 Data-Driven Budget Allocation – Garment Store
+#  Data-Driven Budget Allocation – Garment Store
 
 > **From Common-Sense Guessing to Data-Driven Inventory Decisions**
 
@@ -119,7 +119,7 @@ The main objectives of this project are:
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The dataset contains customer information related to:
 
@@ -177,7 +177,7 @@ However, it is still based on **assumptions**.
 
 ---
 
-# ⚠️ Problems with Equal Allocation
+# Problems with Equal Allocation
 
 ## Problem 1 — Customer Distribution May Not Be Equal
 
@@ -629,7 +629,7 @@ Therefore, it receives the largest budget share under the demand-proportional al
 
 ---
 
-# 🎯 Final Recommendation
+#  Final Recommendation
 
 The project recommends moving away from:
 
@@ -678,7 +678,7 @@ GitHub
 
 ---
 
-# 📚 Python Libraries
+#  Python Libraries
 
 Main libraries used for analysis:
 
@@ -700,7 +700,7 @@ These libraries are used for:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 Data-Driven-Budget-Allocation/
@@ -720,7 +720,7 @@ Data-Driven-Budget-Allocation/
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ### Step 1 — Load Dataset
 
@@ -783,7 +783,7 @@ budget = (
 
 ---
 
-# 💵 Budget Allocation Formula
+#  Budget Allocation Formula
 
 The main formula used in the project is:
 
@@ -803,7 +803,7 @@ This ensures that the complete budget is distributed according to observed deman
 
 ---
 
-# 📌 Why Data-Driven Allocation?
+#  Why Data-Driven Allocation?
 
 A business should not make important inventory decisions only because an allocation:
 
@@ -833,7 +833,7 @@ Missed Sales
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 This project can be extended by adding more real-world business information.
 
@@ -892,7 +892,7 @@ Optimal Budget Allocation
 
 ---
 
-# 📊 Business Impact
+# Business Impact
 
 A data-driven inventory strategy can help businesses:
 
@@ -905,7 +905,7 @@ A data-driven inventory strategy can help businesses:
 
 ---
 
-# 🎓 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, the following concepts were practiced:
 
@@ -940,7 +940,7 @@ Through this project, the following concepts were practiced:
 
 ---
 
-# 📽️ Project Presentation
+#  Project Presentation
 
 A presentation explaining the complete analysis and business problem is included in the repository.
 
@@ -972,18 +972,7 @@ Final Recommendation
 
 ---
 
-# 🖼️ Project Preview
-
-Add the project thumbnail here:
-
-```markdown
-<img width="1672" height="941" alt="Data-Driven Jeans Store Budget Allocation" src="https://github.com/user-attachments/assets/052a6e02-6ea6-47e3-a967-907a14128006" />
-
-```
-
----
-
-# 📌 Final Conclusion
+# Final Conclusion
 
 The main conclusion of this project is:
 
@@ -1009,7 +998,7 @@ we can create a more informed inventory budget allocation strategy.
 
 ---
 
-# ⭐ Key Takeaway
+# Key Takeaway
 
 ```text
 Don't Guess.
@@ -1021,7 +1010,7 @@ Allocate the Budget Smarter.
 
 ---
 
-# 👨‍💻 Project Type
+#  Project Type
 
 ```text
 Data Science
@@ -1035,7 +1024,7 @@ Budget Allocation
 
 ---
 
-# 🔖 Tags
+#  Tags
 
 ```text
 #Python
@@ -1056,7 +1045,7 @@ Budget Allocation
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohammed Shahnawaz**
 
